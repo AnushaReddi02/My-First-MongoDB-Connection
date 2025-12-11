@@ -58,12 +58,7 @@ Upon successfully running `node index.js`, you should see output similar to the 
 
 ### Console Output
 
-Connection Successfull!!!!!
-
-### Visual Confirmation (Optional)
-
-You can replace the placeholder below with a screenshot of your console output or database structure.
-
+Connection successful!!!!
 
 
 ---
@@ -82,4 +77,8 @@ The main purposes of this project were:
 
 The essential files for this connection setup are:
 
-MONGO/ ├── index.js # The main script containing the Mongoose connection logic ├── package.json # Lists the project dependencies (Mongoose) ├── package-lock.json └── node_modules/
+MONGO/
+├── index.js              # The main script containing the Mongoose connection logic
+├── package.json          # Lists the project dependencies (Mongoose)
+├── package-lock.json
+└── node_modules/
