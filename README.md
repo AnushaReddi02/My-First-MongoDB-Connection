@@ -72,13 +72,11 @@ The main purposes of this project were:
 * To create a clean, foundational template for future Node.js and MongoDB backend projects.
 
 ---
-
 ## 📂 Project Structure
-
-The essential files for this connection setup are:
 
 MONGO/
 ├── index.js              # The main script containing the Mongoose connection logic
 ├── package.json          # Lists the project dependencies (Mongoose)
 ├── package-lock.json
 └── node_modules/
+
