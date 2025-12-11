@@ -73,10 +73,11 @@ The main purposes of this project were:
 
 ---
 ## 📂 Project Structure
-
+```text
 MONGO/
 ├── index.js              # The main script containing the Mongoose connection logic
 ├── package.json          # Lists the project dependencies (Mongoose)
 ├── package-lock.json
 └── node_modules/
+```
 
